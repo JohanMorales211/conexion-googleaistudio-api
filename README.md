@@ -6,7 +6,7 @@ Esta aplicación te permite chatear con Google Gemini, un modelo de lenguaje de 
 
 ![Captura de pantalla del chatbot](https://storage.googleapis.com/gweb-cloudblog-publish/images/IO23_Blog_Images-09.max-2500x2500.jpg)
 
-**¡Pruébala ahora mismo!** 🚀 Puedes acceder a la aplicación en la nube a través del siguiente enlace: [https://n4934m.csb.app/](https://n4934m.csb.app/)
+**¡Pruébala ahora mismo!** 🚀 Puedes acceder a la aplicación en la nube a través del siguiente enlace: [Demo](https://n4934m.csb.app/)
 
 ## Características ✨
 
